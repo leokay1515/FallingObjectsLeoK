@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.frmFallingObjects.resources
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.Properties.Resources.resources
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\bin\Debug\FallingObjectsLeoK.exe.config
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\bin\Debug\FallingObjectsLeoK.exe
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\bin\Debug\FallingObjectsLeoK.pdb
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.exe
+C:\Users\user\Desktop\TechClass\FallingObjectsLeoK\FallingObjectsLeoK\obj\Debug\FallingObjectsLeoK.pdb
